@@ -1,4 +1,4 @@
-# 👩‍💻 About Me  
+#  About Me  
 
 Hi there! I'm a **Simulation Engineer** with a passion for **FEM and CFD simulations**. Whether it's tackling challenging **internal flow dynamics**, simulating **batteries**, or optimizing complex geometries, I thrive on solving problems that push the boundaries of engineering.  
 
